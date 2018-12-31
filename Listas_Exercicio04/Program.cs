@@ -11,6 +11,11 @@ namespace Listas_Exercicio04
     {
         static void Main(string[] args)
         {
+            // Git Hub:
+            Console.WriteLine("Este programa foi adicionado ao Git!");
+
+            Console.WriteLine();
+
             // Fazer o enconding:
             Console.OutputEncoding = Encoding.UTF8;
 
