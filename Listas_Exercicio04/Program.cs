@@ -12,7 +12,7 @@ namespace Listas_Exercicio04
         static void Main(string[] args)
         {
             // Git Hub:
-            Console.WriteLine("Este programa foi adicionado ao Git!");
+            Console.WriteLine("Este programa foi adicionado ao Git!!");
 
             Console.WriteLine();
 
